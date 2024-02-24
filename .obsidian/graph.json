@@ -1,0 +1,30 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"Life Trackers\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -1.3,
+  "nodeSizeMultiplier": 1.42941787941788,
+  "lineSizeMultiplier": 1.32754677754678,
+  "collapse-forces": true,
+  "centerStrength": 0.487525987525988,
+  "repelStrength": 10,
+  "linkStrength": 0.533264033264033,
+  "linkDistance": 175,
+  "scale": 1.0000000000000038,
+  "close": true
+}
